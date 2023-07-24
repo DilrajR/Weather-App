@@ -1,0 +1,102 @@
+.container, body{
+  margin: auto auto;
+  font-family: Arial !important;
+  background-image: url("../public/weatherGifs/changingWeather.gif");
+  background-size: cover;
+}
+
+.Rain{
+  margin: auto auto;
+  background-image: url("../public/weatherGifs/Rain.gif");
+  background-size: cover;
+  font-family: Arial !important;
+  height: 100vh;
+}
+
+.RainN{
+  margin: auto auto;
+  background-image: url("../public/weatherGifs/Rain.gif");
+  background-size: cover;
+  font-family: Arial !important;
+  height: 100vh;
+}
+
+.Clouds{
+  margin: auto auto;
+  background-image: url("../public/weatherGifs/Clouds.gif"); 
+  background-size: cover;
+  font-family: Arial !important;
+  height: 100vh;
+}
+
+.CloudsN{
+  margin: auto auto;
+  background-image: url("../public/weatherGifs/CloudsNight.gif"); 
+  background-size: cover;
+  font-family: Arial !important;
+  height: 100vh;
+}
+
+.Clear{
+  margin: auto auto;
+  background-image: url("../public/weatherGifs/Clear.jpg"); 
+  background-size: cover;
+  font-family: Arial !important;
+  height: 100vh;
+}
+
+.ClearN{
+  margin: auto auto;
+  background-image: url("../public/weatherGifs/night.gif"); 
+  background-size: cover;
+  font-family: Arial !important;
+  height: 100vh;
+}
+
+.Snow{
+  margin: auto auto;
+  background-image: url("../public/weatherGifs/Snow.gif"); 
+  background-size: cover;
+  font-family: Arial !important;
+  height: 100vh;
+}
+
+.SnowN{
+  margin: auto auto;
+  background-image: url("../public/weatherGifs/nightSnowing.gif"); 
+  background-size: cover;
+  font-family: Arial !important;
+  height: 100vh;
+}
+
+.Sunny{
+  margin: auto auto;
+  background-image: url("../public/weatherGifs/Sunny.gif"); 
+  background-size: cover;
+  font-family: Arial !important;
+  height: 100vh;
+}
+
+.SunnyN{
+  margin: auto auto;
+  background-image: url("../public/weatherGifs/Sunny.gif"); 
+  background-size: cover;
+  font-family: Arial !important;
+  height: 100vh;
+}
+
+.Smoke{
+  margin: auto auto;
+  background-image: url("../public/weatherGifs/smoke.gif"); 
+  background-size: cover;
+  font-family: Arial !important;
+  height: 100vh;
+}
+
+.SmokeN{
+  margin: auto auto;
+  background-image: url("../public/weatherGifs/smokeNight.gif"); 
+  background-size: cover;
+  font-family: Arial !important;
+  height: 100vh;
+}
